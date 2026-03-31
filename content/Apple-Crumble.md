@@ -3,7 +3,7 @@ title = 'Apple Crumble'
 tags = ["Apple", "Dessert", "Crumble", "Cinnamon", "Baking", "Fall", "Winter", "Comfort Food", "Easy"]
 +++
 
-A filling of tender, cinnamon-laced apples topped with a nubbly crunchy, golden topping. 
+A filling of tender, cinnamon-laced apples topped with a nubbly crunchy, golden topping.
 
 **Cook time:** 55 minutes
 

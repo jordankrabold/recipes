@@ -1,0 +1,13 @@
+baseURL = 'https://recipes.jrabold.com/'
+languageCode = 'en-us'
+title = "Jordan's Recipe Collection"
+
+[permalinks]
+  recipes = "/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1

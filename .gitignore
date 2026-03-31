@@ -1,3 +1,4 @@
 /public
 /.vscode
 /src/recipes/
+.hugo_build.lock

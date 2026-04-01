@@ -5,8 +5,8 @@ tags = ["", ""]
 
 Recipe Description
 
-Cook Time: xx minutes
-Yield: xx servings
+**Cook Time:** xx minutes
+**Yield:** xx servings
 
 ## Ingredients
 

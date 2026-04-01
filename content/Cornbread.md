@@ -5,9 +5,9 @@ tags = ["Cornbread", "Sweet Bread", "Breakfast", "Dinner", "Baking", "American",
 
 If you like sweet cornbread, this is the recipe for you! My mom made this for me as a child, and now it's my family's favorite.
 
-Cook time: 35 mins
+**Cook time:** 35 mins
 
-Yield: 1 - 9 inch round pan
+**Yield:** 1 - 9 inch round pan
 
 ## Ingredients
 
